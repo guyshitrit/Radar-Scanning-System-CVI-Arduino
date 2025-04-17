@@ -9,7 +9,7 @@ This project is ideal for demonstrating embedded systems, real-time visualizatio
 
 ✨ Features
 -----------
-🎯 **Real-time Radar Sweep** – Servo motor scans from 15° to 165°, collecting distance data.  
+🎯 **Real-time Radar Sweep** – Servo motor scans from 0° to 180°, collecting distance data.  
 📈 **Live Graph Panel** – CVI displays real-time distance over time.  
 📊 **Statistical Analysis** – Parallel threads calculate average, minimum, and maximum distances dynamically.  
 🧵 **Multithreaded Architecture** – UI updates and stat calculations run in separate threads.  
@@ -60,16 +60,9 @@ This project is ideal for demonstrating embedded systems, real-time visualizatio
 
 🧠 How It Works
 ----------------
-- Servo rotates between 15°–165°.
+- Servo rotates between 0°–180°.
 - At each angle, Arduino measures the distance using ultrasonic sensor.
 - The angle and distance are sent via Serial.
 - CVI visualizes this as radar arcs and logs the distance values.
 - Threads calculate and display live average, min, and max values in the UI.
 - Radar redraws continuously to simulate real-world scanning.
-
-🚀 Future Enhancements
-----------------------
-- Add obstacle tracking using color/position memory.
-- Include logging and CSV export of data.
-- Replace Arduino UNO with ESP32 and enable Wi-Fi transmission.
-- Enhance GUI with target detection alerts.
