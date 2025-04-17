@@ -9,7 +9,7 @@ This project is ideal for demonstrating embedded systems, real-time visualizatio
 
 ✨ Features
 -----------
-🎯 **Real-time Radar Sweep** – Servo motor scans from 15° to 165°, collecting distance data.  
+🎯 **Real-time Radar Sweep** – Servo motor scans from 0° to 180°, collecting distance data.  
 📈 **Live Graph Panel** – CVI displays real-time distance over time.  
 📊 **Statistical Analysis** – Parallel threads calculate average, minimum, and maximum distances dynamically.  
 🧵 **Multithreaded Architecture** – UI updates and stat calculations run in separate threads.  
