@@ -24,6 +24,6 @@
 ---
 
 ## 🧠 Key Features
-- Real-time radar sweep from 15° to 165°
+- Real-time radar sweep from 0° to 180°
 - Distance measurement using ultrasonic sensor
 - Data visualization on radar and
