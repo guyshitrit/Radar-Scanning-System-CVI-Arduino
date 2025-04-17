@@ -53,11 +53,6 @@ This project is ideal for demonstrating embedded systems, real-time visualizatio
 3. Compile and run the application. Make sure COM port is correctly set (default: COM11).
 4. Place your radar system on a flat surface and observe the UI updates.
 
-📽️ Demo Video
---------------
-*(Upload a demo and place the link here)*  
-👉 [Watch the radar demo](Images&video/Radar_Video.mp4)
-
 🧠 How It Works
 ----------------
 - Servo rotates between 0°–180°.
