@@ -60,7 +60,7 @@ This project is ideal for demonstrating embedded systems, real-time visualizatio
 
 🧠 How It Works
 ----------------
-- Servo rotates between 15°–165°.
+- Servo rotates between 0°–180°.
 - At each angle, Arduino measures the distance using ultrasonic sensor.
 - The angle and distance are sent via Serial.
 - CVI visualizes this as radar arcs and logs the distance values.
