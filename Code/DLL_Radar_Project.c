@@ -1,7 +1,7 @@
 //DLL
 #include <math.h>
 #include <stdlib.h>
-#include "DLL_Final_Project.h"
+#include "DLL_Radar_Project.h"
 
 
 RadarResult  CalcRadarPoint(int angle, int distance, int maxDistance,int canvasWidth, int canvasHeight, double scale)
