@@ -56,7 +56,7 @@ This project is ideal for demonstrating embedded systems, real-time visualizatio
 📽️ Demo Video
 --------------
 *(Upload a demo and place the link here)*  
-👉 [Watch the radar demo](https://www.youtube.com/watch?v=example-link)
+👉 [Watch the radar demo](Images&video/Radar_Video.mp4)
 
 🧠 How It Works
 ----------------
@@ -73,12 +73,3 @@ This project is ideal for demonstrating embedded systems, real-time visualizatio
 - Include logging and CSV export of data.
 - Replace Arduino UNO with ESP32 and enable Wi-Fi transmission.
 - Enhance GUI with target detection alerts.
-
-👨‍💻 Developed By
------------------
-**Guy Shitrit**  
-Electrical Engineering Student | Embedded Systems | CVI Applications | Signal Processing
-
-📎 License
-----------
-This project is open-source under the MIT License. Feel free to fork, use, and contribute!
